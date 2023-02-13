@@ -7,4 +7,6 @@ I used several components (BookCreate, BookList, BookEdit and BookShow) which yo
 
 The finished project can be found here: https://dainty-truffle-0863c6.netlify.app
 
+![Books](./books/src/images/project.JPG)
+
 I had a good learning curve on this project and it was fun to do. I hope to do more projects like this in the near future!
