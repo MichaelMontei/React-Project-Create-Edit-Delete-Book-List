@@ -15,6 +15,10 @@ The finished project can be found here: https://dainty-truffle-0863c6.netlify.ap
 
 Make a book Application where a client can add a book, edit the titles of the books and delete the books entirely of the page.
 
+## The Mission (Second Part)
+
+In the second part we will make use of our own local Json Server setup and a file called db.json so we can actually keep track of the books and do not lose them on a refresh of the page. Therefor, we can now make use of the POST request to create a book, the PUT request to edit a book and at last the DELETE request to delete a book.
+
 ## Steps of creating this APP
 
 - Create all components ((BookCreate, BookList, BookEdit and BookShow)
