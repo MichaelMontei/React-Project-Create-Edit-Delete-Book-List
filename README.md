@@ -1,6 +1,8 @@
 # React-Project-Create-Edit-Delete-Book-List
 
-### Learning Objectives
+The finished project can be found here: https://dainty-truffle-0863c6.netlify.app
+
+## Learning Objectives
 
 - Introducing Event System and Handlers
 - Working with the State System
@@ -9,17 +11,17 @@
 - Understanding Child to Parent Communication
 - Handling Forms and State Updates
 
-### The Mission 
+## The Mission 
 
 Make a book Application where a client can add a book, edit the titles of the books and delete the books entirely of the page.
 
-### Steps of creating this APP
+## Steps of creating this APP
 
 - Create all components ((BookCreate, BookList, BookEdit and BookShow)
 - Make a nice layout for the page
 - Make a request to an external API to get some random pictures for the books.
 
-### Solution
+## Solution
 
 In this project I wanted to make a Book List where a customer can add books, edit titles of books and delete books. 
 I used several components (BookCreate, BookList, BookEdit and BookShow) which you can find in my projects folder. 
