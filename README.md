@@ -23,8 +23,6 @@ Make a book Application where a client can add a book, edit the titles of the bo
 
 In the second part we will make use of our own local Json Server setup and a file called db.json so we can actually keep track of the books and do not lose them on a refresh of the page. Therefor, we can now make use of the POST request to create a book, the PUT request to edit a book and at last the DELETE request to delete a book.
 
-<hr>
-
 ## Steps of creating this APP
 
 - Create all components ((BookCreate, BookList, BookEdit and BookShow)
