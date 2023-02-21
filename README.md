@@ -42,6 +42,6 @@ I used several components (BookCreate, BookList, BookEdit and BookShow) which yo
 
 <hr>
 
-##### Conclusion
+## Conclusion
 
 I had a good learning curve on this project and it was fun to do. I hope to do more projects like this in the near future!
