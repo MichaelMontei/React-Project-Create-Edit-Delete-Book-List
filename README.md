@@ -13,6 +13,8 @@ The finished project can be found here: https://dainty-truffle-0863c6.netlify.ap
 - Understanding Child to Parent Communication
 - Handling Forms and State Updates
 
+<hr>
+
 ## The Mission (First Part)
 
 Make a book Application where a client can add a book, edit the titles of the books and delete the books entirely of the page.
