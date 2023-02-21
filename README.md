@@ -25,8 +25,8 @@ Make a book Application where a client can:
 ## The Mission (Second Part)
 
 In the second part we will make use of: 
-- our own local Json Server setup (refreshing the page will not delete our books from the page anymore)
-- a file called db.json  
+- Local Json Server setup (refreshing the page will not delete our books from the page anymore)
+- File called db.json to store data 
 - POST request to create a book 
 - PUT request to edit a book 
 - DELETE request to delete a book.
