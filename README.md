@@ -17,7 +17,10 @@ The finished project can be found here: https://dainty-truffle-0863c6.netlify.ap
 
 ## The Mission (First Part)
 
-Make a book Application where a client can add a book, edit the titles of the books and delete the books entirely of the page.
+Make a book Application where a client can:
+- add a book 
+- edit the titles of the books
+- delete the books entirely of the page.
 
 ## The Mission (Second Part)
 
